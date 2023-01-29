@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(90, 35, 35);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.container{
+    width: 500px;
+    height: 500px;
+    background-color: bisque;
+    border-radius: 30px;
+    border: 5px solid black;
+    margin:auto;
+    padding: 35px;
+}
+
+button{
+    width: 150px;
+    height: 80px;
+    border: 3px solid black;
+    border-radius: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(181, 159, 201);
+    letter-spacing: 0.2cm;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-top: 50px;
+
+}
+
+button:hover{
+    background-color: rgb(36, 36, 187);
+}
